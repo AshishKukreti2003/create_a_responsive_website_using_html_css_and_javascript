@@ -9,8 +9,6 @@ iEducate is a web project aimed at revolutionizing online education by providing
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Demo](#demo)
 
 ## Features
@@ -36,22 +34,6 @@ Explore the iEducate platform through the various sections:
 - **About:** Learn about the project's mission and its role in transforming education, both locally and globally.
 - **Services:** Dive deeper into the educational methodologies and the diverse services offered.
 - **Contact Us:** Use the contact form to get in touch or submit any queries or concerns.
-
-## Contributing
-
-Contributions are welcomed! To contribute to iEducate:
-
-1. Fork the repository.
-2. Create your branch: `git checkout -b feature/YourFeature`
-3. Commit your changes: `git commit -m 'Add YourFeature'`
-4. Push to the branch: `git push origin feature/YourFeature`
-5. Open a pull request.
-
-Please read the [Contribution Guidelines](CONTRIBUTING.md) for more details on the contribution process.
-
-## License
-
-This project is licensed under the [Your License Name](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
 ## Demo
 
